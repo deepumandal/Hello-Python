@@ -1,2 +1,2 @@
 # Hello-Python
-I'm trying to learn python basic and funcamental
+I'm trying to learn python basic and fundamental
